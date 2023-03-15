@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao0579/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/johncwb_br)
 
-<div align="center">
+<div>
   <a href="https://github.com/joaocarlos0579">
   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=joaocarlos0579"/>
 </div>
