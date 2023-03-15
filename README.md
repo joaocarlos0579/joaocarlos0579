@@ -4,11 +4,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao0579/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/johncwb_br)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocarlos0579&show_icons=true&theme=dracula&count_private=true)
+<div align="center">
+  <a href="https://github.com/davidluiz91">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaocarlos0579&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarlos0579&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+
 
 ## Tecnologias que eu já utilizei no meu dia
-
-
 <div style="display: inline_block">
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
