@@ -1,7 +1,7 @@
 ## Olá! Eu sou o João Carlos Martins 🖐️
 
-# Analista de Sistemas
-# Desenvolvedor web Full Stack
+  Analista de Sistemas / Desenvolvedor web Full Stack
+ 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-martins-8188a724/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/joaocarlosmartins0579)
@@ -13,8 +13,8 @@
   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=joaocarlos0579"/>
 </div>
 
-
 ## Tecnologias que eu já utilizei no meu dia
+
 <div style="display: inline_block">
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
